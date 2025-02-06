@@ -1,0 +1,4 @@
+ N = 1, Integral = 0.998473, Relative error = 1.527387e-03
+ N = 2, Integral = 1.000008, Relative error = -8.121555e-06
+ N = 3, Integral = 1.000000, Relative error = 2.280288e-08
+ N = 4, Integral = 1.000000, Relative error = -3.956546e-11
