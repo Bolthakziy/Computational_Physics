@@ -4,7 +4,7 @@ OBJS = MultipleIntegral.o
 SRCS = MultipleIntegral.c
 
 $(TARGET) : $(OBJS)
-	$(CC) -o $@ $(OBJS)
+	$(CC) -o $@ $(OBJS) -lm
 
 $(OBJS) : $(SRCS)
 	$(CC) -c -o $(OBJS) $(SRCS)
